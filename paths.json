@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/test-aem-xwalk/:/",
-    "/content/test-aem-xwalk/configuration:/.helix/config.json"
+    "/content/my-site/:/",
+    "/content/my-site/configuration:/.helix/config.json"
   ]
 }
